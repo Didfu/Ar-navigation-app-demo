@@ -1,5 +1,3 @@
-# FESTU.Navigator
-
 
 The project, developed for a FESTU university (city Khabarovsk) competition, implements AR navigation through the FESTU university buildings along a pre-created corridor graph. 
 Work with AR is done entirely using the SceneView library
